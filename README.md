@@ -23,7 +23,11 @@ https://github.com/angular-ui/ui-router
 
 5. Add scripts pointing to bower folder with angular and angular ui
 
-<code><script src="bower_components/angular/angular.js"></script></code>
-<code><script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script></code>
+<pre>
+  <code>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+  </code>
+</pre>
 
 6. 
